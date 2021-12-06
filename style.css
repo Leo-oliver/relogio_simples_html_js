@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+
+#dia{
+    color: #ffff;
+    margin-top: 40px;
+    font-size: 30px;
+    font-style: italic;
+    text-align: center;
+}
+
+.clock {
+    color: #ffff;
+    margin: auto;
+    width: 600px;
+    height: 300px;
+    line-height: 600px;
+    text-align: center;
+    font-size: 150px;
+}
