@@ -1,0 +1,1 @@
+Relógio simples em HTML, CSS e JavaScript, esse pequeno projeto foi criado em meio aos meus estudos de JavaScript, quando eu estava apenas usando o laptop o segundo monitor ficava ocioso, então com poucas linhas de código foi criada uma função para ele.
